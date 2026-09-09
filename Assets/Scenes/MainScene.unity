@@ -545,7 +545,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -897,7 +897,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -968,13 +968,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 253117736}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.000000023398453, y: 0.0018644306, z: 0.000000047459164, w: -0.9999983}
-  m_LocalPosition: {x: -101.7988, y: 25.7, z: 317.3105}
-  m_LocalScale: {x: 84.8145, y: 29.709558, z: 3.3632195}
+  m_LocalRotation: {x: 0.13042216, y: 0.0018484498, z: -0.00019621079, w: -0.99145687}
+  m_LocalPosition: {x: -101.7983, y: 25.4637, z: 316.074}
+  m_LocalScale: {x: 84.8145, y: 29.709558, z: 3.8606663}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1821511150}
-  m_LocalEulerAnglesHint: {x: 0, y: -360.214, z: 0}
+  m_LocalEulerAnglesHint: {x: -14.988, y: -360.22, z: 0.052}
 --- !u!114 &253117743
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2088,13 +2088,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 480603751}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0.7032254, z: -0, w: 0.71096706}
-  m_LocalPosition: {x: -99.169914, y: 9.4, z: 317.05188}
-  m_LocalScale: {x: 7.2034144, y: 1, z: 8.8562975}
+  m_LocalRotation: {x: -0.09275892, y: -0.6972187, z: 0.091682866, w: 0.7048944}
+  m_LocalPosition: {x: -99.1983, y: 8.9942, z: 317.5857}
+  m_LocalScale: {x: 8.769122, y: 1, z: 8.8562975}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1821511150}
-  m_LocalEulerAnglesHint: {x: 0, y: -89.373, z: 0}
+  m_LocalEulerAnglesHint: {x: -0.168, y: -89.395, z: 14.987}
 --- !u!1 &483494370
 GameObject:
   m_ObjectHideFlags: 0
@@ -2297,7 +2297,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -3664,13 +3664,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 868769976}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.00000005013249, y: -0.70697963, z: 0.000000016929052, w: -0.7072339}
-  m_LocalPosition: {x: -57.223038, y: 24.499996, z: 317.2375}
-  m_LocalScale: {x: 70.02792, y: 29.709558, z: 4.444351}
+  m_LocalRotation: {x: 0.09220582, y: -0.700941, z: 0.09223905, w: -0.7011931}
+  m_LocalPosition: {x: -57.2226, y: 24.278, z: 316.3014}
+  m_LocalScale: {x: 80.385605, y: 29.709558, z: 4.444351}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1821511150}
-  m_LocalEulerAnglesHint: {x: 0, y: -270.021, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -270.021, z: -14.988}
 --- !u!1 &878332791
 GameObject:
   m_ObjectHideFlags: 0
@@ -3834,7 +3834,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -50043,7 +50043,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -52407,13 +52407,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1958367994}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.00000005013249, y: -0.70697963, z: 0.000000016929052, w: -0.7072339}
-  m_LocalPosition: {x: -145.9999, y: 25.1, z: 316.8126}
-  m_LocalScale: {x: 70.66285, y: 29.709558, z: 4.444351}
+  m_LocalRotation: {x: 0.09220582, y: -0.700941, z: 0.09223905, w: -0.7011931}
+  m_LocalPosition: {x: -145.9995, y: 24.741, z: 315.6785}
+  m_LocalScale: {x: 81.11445, y: 29.709558, z: 4.444351}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1821511150}
-  m_LocalEulerAnglesHint: {x: 0, y: -270.021, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -270.021, z: -14.988}
 --- !u!1 &1959923517
 GameObject:
   m_ObjectHideFlags: 0
